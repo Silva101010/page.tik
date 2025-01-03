@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oferta de Demo e Bônus</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body class="dark-bg">
+    <header class="header">
+        <h1>Receba Uma Amostra e um Bônus Exclusivo!</h1>
+        <p>Baixe uma versão demo e desbloqueie um eBook bônus incrível.</p>
+    </header>
+    <main class="offer-page">
+        <section class="offer-details">
+            <h2>O que você receberá?</h2>
+            <ul>
+                <li><strong>📘 Demo: Primeiros 10 capítulos do eBook</strong></li>
+                <li><strong>🎁 Bônus: "Estratégias Avançadas de Monetização"</strong></li>
+            </ul>
+        </section>
+        <section class="signup-form">
+            <h2>Cadastre-se para Receber Agora:</h2>
+            <form id="offerForm">
+                <input type="text" name="name" placeholder="Seu Nome" required>
+                <input type="email" name="email" placeholder="Seu Email" required>
+                <button type="submit" class="cta-button">Quero o Meu Bônus!</button>
+            </form>
+        </section>
+    </main>
+    <footer class="footer">
+        <p>&copy; 2025 Álvaro Silva - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
